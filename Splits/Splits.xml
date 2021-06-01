@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Splits>
+  <Parent name="Spritelings" text="Spritelings">
+    <Split name="Spriteling_Twigling" text="Twigling"/>
+    <Split name="Spriteling_Emberling" text="Emberling"/>
+    <Split name="Spriteling_Shiverling" text="Shiverling"/>
+    <Split name="Spriteling_Barbling" text="Barbling"/>
+    <Split name="Spriteling_Lunaling" text="Lunaling"/>
+  </Parent>
+  
+  <Parent name="Greenshields" text="Greenshields">
+    <Split name="SaveData_greenshieldTwinsFound" text="The Twins"/>
+    <Split name="SaveData_greenshield2020Found" text="Toothpicks"/>
+    <Split name="SaveData_greenshieldPaperPlanesFound" text="Paper Planes"/>
+  </Parent>
+
+  <Parent name="ShrinesArtifacts" text="Shrines and Artifacts">
+    <Split name="SaveData_coastShrineOpened" text="Crystalfall Coast Shrine Open"/>
+    <Split name="Inventory_ArtifactWand" text="Heartroot Wand"/>
+    <Split name="SaveData_wispShrineOpened" text="Wispwagon Shrine Open"/>
+    <Split name="Inventory_ArtifactBlade" text="Ffion's Gibeon Athame"/>
+    <Split name="SaveData_frostShrineOpened" text="Frostfields Shrine Open"/>
+    <Split name="Inventory_ArtifactDoll" text="Child's Effigy"/>
+  </Parent>
+
+  <Parent name="Progress" text="Misc. Progress">
+    <Split name="SaveData_firstDreamCompleted" text="First Dream Completed"/>
+    <Split name="SaveData_currentChapter_2" text="Second Dream Completed"/>
+    <Split name="SaveData_LOC_SUBMERGEDGARDEN" text="Enter Sunken Grotto"/>
+    <Split name="SaveData_LOC_UMBRALLETHEA" text="Enter Umbral Lethea"/>
+  </Parent>  
+
+  <Split name="End" text="End"/>
+</Splits>
